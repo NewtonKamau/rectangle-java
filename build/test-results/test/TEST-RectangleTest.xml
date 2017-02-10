@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RectangleTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2017-02-10T01:48:32" hostname="newnyc-Latitude-E6420" time="0.003">
+  <properties/>
+  <testcase name="newRectangle_getsLength_2" classname="RectangleTest" time="0.001"/>
+  <testcase name="isSquare_allSidesEqual_true" classname="RectangleTest" time="0.0"/>
+  <testcase name="isSquare_whenNotASqure_false" classname="RectangleTest" time="0.0"/>
+  <testcase name="newRectangle_instantiatesCorrectly" classname="RectangleTest" time="0.0"/>
+  <testcase name="getWidth_getsRectangleWidth_4" classname="RectangleTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
